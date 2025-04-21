@@ -6,13 +6,7 @@ A complete data engineering project that unifies sales data from **Shopify (e-co
 
 ## 🚀 Project Overview
 
-A mid-sized retailer operating both an online store (via Shopify) and a chain of physical stores (selling through Walmart) wants to unify its sales data into a centralized data warehouse. By consolidating e-commerce and in-store transactions, the business will be able to:
-Track revenue across channels: Compare online vs. in-store sales performance in real time.
-Identify best-selling products: Determine top products overall and by channel to optimize inventory stocking.
-Analyze customer purchasing behavior: Understand how customers shop across channels and tailor marketing (e.g. what products are frequently bought together).
-Reduce operational inefficiencies: Eliminate manual reconciliation of separate reports, saving time and reducing errors.
-This integrated view of omnichannel sales will enable data-driven decisions on pricing, promotions, and supply chain. In summary, the project will build a fully automated data pipeline that ingests, processes, and visualizes omnichannel sales data, empowering the retailer with timely insights to remain competitive.
-
+A mid-sized retailer selling through both Shopify (online) and Walmart (in-store) needs to unify its sales data into a single data warehouse. This will allow the business to track revenue by channel, identify top-selling products, and better understand customer behavior. By automating data collection and analysis, the company can reduce manual work and improve decision-making. The end goal is a real-time, centralized analytics system that supports smarter pricing, promotions, and inventory planning.
 ---
 
 ## 🧱 Tech Stack
