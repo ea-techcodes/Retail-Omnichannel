@@ -1,10 +1,10 @@
-# 🛍️ Omnichannel Sales Pipeline Project
+## 🛍️ Omnichannel Sales Pipeline Project
 
 A complete data engineering project that unifies sales data from **Shopify (e-commerce)** and **Walmart (in-store)** into a single PostgreSQL/Snowflake data warehouse. The pipeline is fully automated using **Airflow**, transformed using **dbt**, and visualized with **Google Looker Studio**.
 
 ---
 
-## 🚀 Project Overview
+# 🚀 Project Overview
 
 A mid-sized retailer selling through both Shopify (online) and Walmart (in-store) needs to unify its sales data into a single data warehouse. This will allow the business to track revenue by channel, identify top-selling products, and better understand customer behavior. By automating data collection and analysis, the company can reduce manual work and improve decision-making. The end goal is a real-time, centralized analytics system that supports smarter pricing, promotions, and inventory planning.
 ---
